@@ -25,10 +25,8 @@ In this system, There are mainly 5 actors.
 #### Reservation Management
 --- It is home page and shows this hours and next hours booking list(by default)
 <br>--- Search reservation by reservation id. 
-<br> > I didn't understand this two-point 
 <br>--- Select reservations using search bar
 <br>--- For the Doctor/Hygienist, Can check all reservations under me by selecting my name from search options
-> For Creating new reservation ( I didn't understand)
 <br>--- Can see the reservation details 
 <br>--- Can Edit the reservation and Do comment and post
 <br>--- Can See the patient's details using patients id
@@ -44,4 +42,10 @@ In this system, There are mainly 5 actors.
 #### Schedule calendar
 --- Can see the status of doctor/hygienist
 <br>--- Create new reservation by selecting doctor/hygienist and time
+
+
+## I didn't understand in two place 
+---For Creating new reservation 
+<br>--- And this Image and i mark it ![image](https://user-images.githubusercontent.com/50108351/124437087-828d5500-dd98-11eb-8a9d-f0f8529560a5.png)
+
 
