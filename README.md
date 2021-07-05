@@ -28,7 +28,7 @@ In this system, There are mainly 5 actors.
 <br> > I didn't understand this two-point 
 <br>--- Select reservations using search bar
 <br>--- For the Doctor/Hygienist, Can check all reservations under me by selecting my name from search options
-<br> > For Creating new reservation ( I didn't understand)
+> For Creating new reservation ( I didn't understand)
 <br>--- Can see the reservation details 
 <br>--- Can Edit the reservation and Do comment and post
 <br>--- Can See the patient's details using patients id
